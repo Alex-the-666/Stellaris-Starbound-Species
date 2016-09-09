@@ -1,0 +1,5 @@
+portraits = {
+   floran= {
+       texturefile = "gfx/models/portraits/floran.dds"
+   }
+}
